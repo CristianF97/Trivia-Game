@@ -1,0 +1,49 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+.button, #start{
+    color:greenyellow;
+    font-size: 30px;
+    border-color: greenyellow;
+    border-style: ridge;
+    background-color: tomato;
+    border-radius: 15px;
+}
+.content{
+    text-align:center;
+    color: greenyellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 75%;
+    height: 775px;
+    margin-left: 15%;
+    background-color: tomato;
+    font-weight: bold;
+    border-style: dotted;
+}
+
+
+#start{
+    display: block;
+    width: 40%;
+    margin-left: 30%;
+    height: 40px;
+    
+}
+img{
+    width: 550px;
+    height: 315px;
+    border-radius: 20px;
+}
+
+.title, .timer, .questions, .answers, .stats{
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    background-color: tomato;
+}
+
+#result{
+    height: 225px;
+    color: greenyellow;
+
+}
